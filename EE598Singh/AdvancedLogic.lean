@@ -1,14 +1,3 @@
-/-
-HW_III_4&5.lean — EE598
-Sukhman Singh
-
-Instructions (from slide deck):
-- Put solutions in HW_III_4&5.lean in the same directory as Basic.lean.
-- Restate each problem.
-- Textual answers should be written as comments.
-- Lean code should produce no errors (sorry is allowed for partial credit).
--/
-
 import mathlib
 /-
 -- ============================================================
