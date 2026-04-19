@@ -1,4 +1,4 @@
-# EE598_Singh
+# Lean With Symbolic Language and Formal Math
 
 ## GitHub configuration
 
